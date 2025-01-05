@@ -17,4 +17,4 @@ Version Control: Git & GitHub
 ## Screenshots 📸  
 Here’s a preview of the Weather App:  
 
-![Weather App Screenshot](weatherAppProject/SS/)  
+![Weather App Screenshot](weatherAppProject/SS/img1.png)  
