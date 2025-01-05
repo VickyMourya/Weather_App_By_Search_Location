@@ -19,4 +19,4 @@ Here’s a preview of the Weather App:
 
 ![Weather App Screenshot](weatherAppProject/SS/img2.png)  
 ![Weather App Screenshot](weatherAppProject/SS/img3.png)  
-![Weather App Screenshot](img2.png)  
+![Weather App Screenshot](img1.png)  
